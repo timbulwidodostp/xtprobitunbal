@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'xtprobitunbal': Estimates Dynamic Correlated Random Effects Probit Models with Unbalanced Panels Use xtprobitunbal With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f mgf_unbal.ado
+f mgf_unbal.sthlp
+f xtprobitunbal.ado
+f xtprobitunbal.sthlp
