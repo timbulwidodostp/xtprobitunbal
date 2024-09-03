@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtprobitunbal Estimates Dynamic Correlated Random Effects Probit Models with Unbalanced Panels Use xtprobitunbal With STATA 18
